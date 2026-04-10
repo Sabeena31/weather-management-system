@@ -36,4 +36,4 @@ It provides real-time weather updates and 5-day forecasts using API integration,
 Full project report is available in this repository.
 
 ## Note
-This repository contains project documentation and screenshots. The original source code is unavailable.
+This repository contains project documentation and screenshots. The original source code is currently unavailable.
